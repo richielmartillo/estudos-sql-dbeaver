@@ -26,9 +26,9 @@ Esse arquivo contém as consultas SQL solicitadas no exercício da EBAC.
 
 Os arquivos abaixo foram utilizados para prática durante as aulas:
 
-- `00-Aula-SQL-Script.sql`
-- `01-Aula-SQL-Script.sql`
-- `02-Aula-SQL-Script.sql`
+01-Aula-SQL-Script.sql
+02-Aula-SQL-Script.sql
+03-Aula-SQL-Script.sql
 
 ## Banco de dados utilizado
 
